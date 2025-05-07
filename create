@@ -1,0 +1,16 @@
+To create this typing animation webpage, you need these key elements:
+
+1.Basic HTML Structure: To define the document, content, and elements you want to animate.
+
+<!DOCTYPE html>, <html>, <head>, <body>, and related tags.
+Elements like <div> to contain the text and cursor.
+
+2.CSS Styling and Animations:
+
+Style the body for background color, layout, and centering content.
+Style the text container with font properties, colors, spacing.
+Create @keyframes animations for the typing effect (expanding the width) and blinking cursor (opacity change).
+Use CSS animation properties to run these animations with timing and repeat settings.
+Responsive font sizes using viewport units (vw).
+
+3.Meta viewport tag: To ensure responsive scaling on different screen sizes, especially mobile.
